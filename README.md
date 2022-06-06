@@ -1,4 +1,4 @@
-# SM_JavaScript_Calculator
+# JavaScript_Calculator
 
 This project is a Javascript Calculator
 
